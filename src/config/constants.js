@@ -60,7 +60,7 @@ export const invalidDataFormat = {
 
 // Setting the maximum number of objects that will be returned in the pagination, the path of the image and the domain name
 export const PAGINATE_BY = 30;
-export const IMAGES_NEWS = "/app/images/news/";
+export const IMAGES_NEWS = "./images/news/";
 export const DOMAIN_NAME = "https://www.associamed.tn";
 
 // Setting the constants of the gender type
